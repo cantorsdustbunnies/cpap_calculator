@@ -9,5 +9,5 @@ require('./server_startup/client')(app, __dirname);
 const port = process.env.PORT || 8000;
 
 app.listen(port, () => {
-	console.log(`server now taking requests on port ${port} \n React app should be visible on first request`);
+	console.log(`server now taking requests on port ${port}\nReact app should be visible on first request`);
 });
