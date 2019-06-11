@@ -18,7 +18,7 @@ For funsies. My dad is a sleep therapist so he brought me onto the idea with the
 
 1. `git clone https://github.com/cantorsdustbunnies/cpap_calculator.git`
 
-2. `cd` into `/cpap_calculator` and run
+2. `cd` into `/cpap_calculator`
 
 3. `npm install && npm run client_install`
 
