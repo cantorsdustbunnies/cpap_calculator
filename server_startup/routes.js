@@ -1,4 +1,3 @@
-const express = require('express');
 const pressure = require('../routes/pressure');
 const error = require('../middleware/error');
 
